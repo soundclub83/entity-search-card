@@ -1,0 +1,7 @@
+type: custom:entity-search-card
+search_text: Entitäten suchen …
+max_results: 20
+# Optional: limit the search to specific domains.
+# included_domains:
+#   - light
+#   - switch
